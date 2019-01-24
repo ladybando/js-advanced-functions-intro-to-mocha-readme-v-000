@@ -15,6 +15,6 @@ function sayHeyFriend(name){
   return `Hey, ${name}!`;
 }
 
-function shouting(){
-  return ;
+function shouting(string){
+  return string.toUpperCase();
 }
