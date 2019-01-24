@@ -18,3 +18,7 @@ function sayHeyFriend(name){
 function shouting(str){
   return str.toUpperCase();
 }
+
+function roundDown(number){
+  number.floor;
+}
